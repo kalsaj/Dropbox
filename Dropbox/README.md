@@ -17,4 +17,4 @@ Note: Spent close to 10-12 hours on this assignment. Considerable time was spent
 Found that I wanted to rename my swift files...tried that manually but finally deleted and started from scratch.
 One last thing that I learnt the hard way was dragging images from the media library to a view controller. Works beautifully sometimes and sometimes doesnt. I spent close to an hour on this and discovered that I could set it using the other inspectors..:)
 
-![Video Walkthrough](Dropbox/Dropbox/Dropbox.gif)
+![Video Walkthrough](Dropbox.gif)
